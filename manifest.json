@@ -1,0 +1,10 @@
+{
+  "name": "CineTrack",
+  "short_name": "CineTrack",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0f1420",
+  "theme_color": "#0f1420",
+  "description": "Minhas séries e filmes — controle de episódios, notas e sincronização.",
+  "icons": []
+}
